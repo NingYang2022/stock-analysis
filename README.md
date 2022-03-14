@@ -11,6 +11,7 @@ Steve’s parents like green energy very much. They think that alternative energ
 
 1. Only two green companies had positive returns on both years, ENPH and RUN, which show good performance and will be recommended to be invested in.
 ![Stock_performance_2017](https://github.com/NingYang2022/stock-analysis/blob/main/Resources/Stock_performance_2017.png?raw=true)
+
 ![Stock_performance_2018](https://github.com/NingYang2022/stock-analysis/blob/main/Resources/Stock_performance_2018.png?raw=true)
 
 2. The refactored script runs faster than the original one.
