@@ -15,9 +15,11 @@ Steve’s parents like green energy very much. They think that alternative energ
 
 2. The refactored script runs faster than the original one.
 - Images of pop message box for 2017 and 2018 of the original code show that the script used more time to run. 
+
 ![VBA_Original_2017](https://github.com/NingYang2022/stock-analysis/blob/main/Resources/VBA_Original_2017.png?raw=true)
 ![VBA_Original_2018](https://github.com/NingYang2022/stock-analysis/blob/main/Resources/VBA_Original_2018.png?raw=true)
 - Images of pop message box for 2017 and 2018 of the refactored code, on the other hand, show that the script used less time to run.
+
 ![VBA_Challenge_2017](https://github.com/NingYang2022/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
 ![VBA_Challenge_2018](https://github.com/NingYang2022/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
